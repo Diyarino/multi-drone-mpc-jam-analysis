@@ -71,8 +71,8 @@ These results illustrate the gap between **worst-case theoretical guarantees** a
 ## 📊 Figures
 
 <p align="center">
-  <img src="animation_4.gif" width="400" height="400" alt="four" style="margin-right: 10px;">
-  <img src="animation_8.gif" width="400" height="400" alt="eight Control" style="margin-right: 10px;">
+  <img src="results//animation_4.gif" width="400" height="400" alt="four" style="margin-right: 10px;">
+  <img src="results//animation_8.gif" width="400" height="400" alt="eight Control" style="margin-right: 10px;">
 </p>
 
 ---
