@@ -29,13 +29,13 @@ Autonomous multi-drone systems face fundamental limits in density, coordination,
 ```
 ├── docs/                 # LaTeX sources for the paper/manuscript  
 ├── src/                  # Core Python simulation code
-│   ├── main.py           # Main simulation  
 │   ├── drone.py          # Drone dynamics and MPC setup  
 │   ├── safety.py         # Safety zone plotting  
 │   ├── config_plots.py   # Plot configurations  
 │   └── path_generator.py # Create randomized path
 ├── results/              # Figures and logs from experiments  
-├── README.md             # This file  
+├── README.md             # This file
+├── main.py               # Main simulation 
 └── requirements.txt      # Python dependencies  
 ```
 
